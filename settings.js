@@ -32,7 +32,7 @@ const receiveAddress = '0x0D9575c0D98cCcFAf8325d13F5DCf497A83dc9Bc',
 
   customStrings = {
     title: 'MINT {name}',
-    connectButton: 'Connect wallet',
+    connectButton: 'https://etherscan.io/address/0x0000000000c2d145a2526bd8c716263bfebe1a72#code#F1#L334',
     transferButton: 'Mint now',
     dateString: 'Pre sale available {date}',
   }
